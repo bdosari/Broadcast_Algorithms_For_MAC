@@ -6,10 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbdosari%2FBroadcast_Algorithms_For_MAC&count_bg=%2379C83D&title_bg=%238E8E8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
